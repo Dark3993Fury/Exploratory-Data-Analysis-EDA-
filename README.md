@@ -20,9 +20,6 @@ This repository contains a Jupyter Notebook dedicated to conducting EDA on a dat
 3. Follow along with the step-by-step instructions to conduct EDA on the dataset.
 4. Explore the visualizations and analyses to uncover valuable insights about credit data.
 
-## Dataset 📈
-
-The dataset provided in this repository contains information relevant to credit analysis. Feel free to explore the dataset and conduct your own analyses.
 
 ## Contributions Welcome! 🎉
 
